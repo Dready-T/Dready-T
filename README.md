@@ -4,7 +4,7 @@
 
 this is just a placeholder file
 
-- 📫 How to reach me ...
+- 📫 How to reach me: Leave a comment in my blog at http://blog.baxterworks.de
 
 <!---
 T-Jah Tom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
