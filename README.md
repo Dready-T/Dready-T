@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @T-Jah Tom
-- 👀 I’m interested in reggae music, databases, html
+- 👀 I’m interested in reggae music, databases, html, VfL Bochum, gaming
 - 🌱 I’m currently learning autohotkey
 
 this is just a placeholder file
