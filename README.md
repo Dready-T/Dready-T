@@ -2,8 +2,6 @@
 - 👀 I’m interested in reggae music, databases, html, VfL Bochum, gaming
 - 🌱 I’m currently learning autohotkey
 
-this is just a placeholder file
-
 - 📫 How to reach me: Leave a comment in my blog at http://blog.baxterworks.de
 
 <!---
